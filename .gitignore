@@ -1,0 +1,8 @@
+file_manager
+*.exe
+*.out
+*.o
+*.obj
+
+test.txt
+
